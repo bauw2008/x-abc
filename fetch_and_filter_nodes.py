@@ -12,7 +12,7 @@ node_urls = [
 ]
 
 delay_test_url = 'http://cp.cloudflare.com/'
-url_test_url = 'http://cp.cloudflare.com/'
+url_test_url = 'https://cp.cloudflare.com/generate_204'
 download_test_url = 'http://cachefly.cachefly.net/10mb.test'
 region_lookup_url = 'http://ip-api.com/json/'
 
