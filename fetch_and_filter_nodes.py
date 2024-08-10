@@ -6,14 +6,14 @@ from collections import namedtuple
 
 node_urls = [
     'https://raw.githubusercontent.com/yaney01/chromego_merge/main/sub/shadowrocket_base64.txt',
-    #'https://raw.githubusercontent.com/njyp/TV/main/jiedian',
+    'https://raw.githubusercontent.com/njyp/TV/main/jiedian',
     #'https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/base64/mix',
     #'https://chromenodes.marcol.top',
-    'https://proxypool.link/vmess/sub',
+    #'https://proxypool.link/vmess/sub',
 ]
 
 delay_test_url = 'http://cp.cloudflare.com/'
-url_test_url = 'https://cp.cloudflare.com/'
+url_test_url = 'https://cp.cloudflare.com/generate_204'
 download_test_url = 'http://cachefly.cachefly.net/10mb.test'
 region_lookup_url = 'http://ip-api.com/json/'
 
