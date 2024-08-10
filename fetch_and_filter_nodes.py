@@ -6,8 +6,8 @@ from collections import namedtuple
 
 node_urls = [
     'https://raw.githubusercontent.com/yaney01/chromego_merge/main/sub/shadowrocket_base64.txt',
-    'https://raw.githubusercontent.com/njyp/TV/main/jiedian',
-    'https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/base64/mix',
+    #'https://raw.githubusercontent.com/njyp/TV/main/jiedian',
+    #'https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/base64/mix',
     'https://chromenodes.marcol.top',
 ]
 
